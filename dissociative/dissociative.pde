@@ -4,7 +4,7 @@ int x = 1; // beginning amount
 int y = 1; // beginning amount
 int z = 40; // incremental increase
 
-//true & false control statements to switch from shapes using the keyboard
+//true & false control statements to switch from shapes utilizing the keyboard
 
 boolean start = true;
 boolean elli = false;
