@@ -1,4 +1,4 @@
-//disassociative
+//dissociative
 
 int x = 1; // beginning amount
 int y = 1; // beginning amount
