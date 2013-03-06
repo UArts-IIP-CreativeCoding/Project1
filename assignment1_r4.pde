@@ -1,7 +1,5 @@
-// credits
-// http://processing.org/reference/
-// movement design for "stress"
-// brenden moore - uarts 2013
+// brenden moore - uarts 2013, theme 'stress'
+// added help coding from Kenneth Guglielmino & Je Seok Koo
 
 int value = 0;
 int circleSize = 50;
